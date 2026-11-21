@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello!
 
-<!--
-**jacklightChen/jacklightChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Zhihao Chen, a Ph.D. Graduate from Data Science & Engineering at the East China Normal University.
 
-Here are some ideas to get you started:
+Currently I work at AetherHeart-AI, scaling inference and AI infra systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacklightchen&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" align="right">
+
+### Where to find me
+[Homepage](https://zhihaochen.cn/)
+[Google Scholar](https://scholar.google.com/citations?user=guxaYEoAAAAJ&hl=en)
+
+Email: jacklightchen@gmail.com
