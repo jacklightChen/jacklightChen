@@ -12,7 +12,7 @@ Currently I work at AetherHeart-AI, scaling inference and AI infra systems.
 
 ### Where to find me
 <p align="left">
-  <a href="[https://www.fffmath.com](https://zhihaochen.cn/)">Homepage</a> •
+  <a href="https://zhihaochen.cn/">Homepage</a> •
   <a href="https://scholar.google.com/citations?user=guxaYEoAAAAJ">Google Scholar</a> •
   <a href="https://dblp.uni-trier.de/pid/50/505-3.html">DBLP</a>
 </p>
