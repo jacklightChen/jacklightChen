@@ -4,10 +4,10 @@ I am Zhihao Chen, a Ph.D. Graduate from Data Science & Engineering at the East C
 
 Currently I work at AetherHeart-AI, scaling inference and AI infra systems.
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacklightchen&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" align="right">
-](https://github-readme-stats.vercel.app/api?username=jacklightChen&show_icons=true&hide_border=true)
+<img align="right" width="350" alt="jacklightChen's GitHub Streak" src="https://streak-stats.demolab.com/?user=jacklightChen&amp;theme=vue">
 
 ### Where to find me
 - [Homepage](https://zhihaochen.cn/)
 - [Google Scholar](https://scholar.google.com/citations?user=guxaYEoAAAAJ&hl=en)
-- Email: jacklightchen@gmail.com
+
+Email: jacklightchen@gmail.com
