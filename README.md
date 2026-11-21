@@ -1,4 +1,4 @@
-### Hello!
+### Hi!
 
 I am Zhihao Chen, a Ph.D. Graduate from Data Science & Engineering at the East China Normal University.
 
